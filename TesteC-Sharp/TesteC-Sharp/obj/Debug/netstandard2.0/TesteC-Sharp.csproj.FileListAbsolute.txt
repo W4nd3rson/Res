@@ -1,0 +1,9 @@
+C:\Users\W4nd3rson\source\repos\TesteC-Sharp\TesteC-Sharp\bin\Debug\netstandard2.0\TesteC-Sharp.deps.json
+C:\Users\W4nd3rson\source\repos\TesteC-Sharp\TesteC-Sharp\bin\Debug\netstandard2.0\TesteC-Sharp.dll
+C:\Users\W4nd3rson\source\repos\TesteC-Sharp\TesteC-Sharp\bin\Debug\netstandard2.0\TesteC-Sharp.pdb
+C:\Users\W4nd3rson\source\repos\TesteC-Sharp\TesteC-Sharp\obj\Debug\netstandard2.0\TesteC-Sharp.csprojAssemblyReference.cache
+C:\Users\W4nd3rson\source\repos\TesteC-Sharp\TesteC-Sharp\obj\Debug\netstandard2.0\TesteC-Sharp.csproj.CoreCompileInputs.cache
+C:\Users\W4nd3rson\source\repos\TesteC-Sharp\TesteC-Sharp\obj\Debug\netstandard2.0\TesteC-Sharp.AssemblyInfoInputs.cache
+C:\Users\W4nd3rson\source\repos\TesteC-Sharp\TesteC-Sharp\obj\Debug\netstandard2.0\TesteC-Sharp.AssemblyInfo.cs
+C:\Users\W4nd3rson\source\repos\TesteC-Sharp\TesteC-Sharp\obj\Debug\netstandard2.0\TesteC-Sharp.dll
+C:\Users\W4nd3rson\source\repos\TesteC-Sharp\TesteC-Sharp\obj\Debug\netstandard2.0\TesteC-Sharp.pdb

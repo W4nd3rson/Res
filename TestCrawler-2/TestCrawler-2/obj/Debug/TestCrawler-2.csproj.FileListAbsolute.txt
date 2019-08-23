@@ -1,0 +1,7 @@
+G:\ResourceTests\TestCrawler-2\TestCrawler-2\bin\Debug\TestCrawler-2.exe.config
+G:\ResourceTests\TestCrawler-2\TestCrawler-2\bin\Debug\TestCrawler-2.exe
+G:\ResourceTests\TestCrawler-2\TestCrawler-2\bin\Debug\TestCrawler-2.pdb
+G:\ResourceTests\TestCrawler-2\TestCrawler-2\obj\Debug\TestCrawler-2.csprojAssemblyReference.cache
+G:\ResourceTests\TestCrawler-2\TestCrawler-2\obj\Debug\TestCrawler-2.csproj.CoreCompileInputs.cache
+G:\ResourceTests\TestCrawler-2\TestCrawler-2\obj\Debug\TestCrawler-2.exe
+G:\ResourceTests\TestCrawler-2\TestCrawler-2\obj\Debug\TestCrawler-2.pdb
